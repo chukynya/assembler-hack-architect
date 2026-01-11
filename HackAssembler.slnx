@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HackAssembler.vcxproj" Id="1035ca06-3633-44a2-8853-e41feb5cb622" />
+</Solution>
